@@ -2,7 +2,7 @@
 
 ---
 ## How this project was coded ?
-Discover the inner workings of this project by following our step-by-step following [tutorial](https://hamudeshahin.me/blogs/send-emails-using-react-email-resend-and-server-actions-in-nextjs)
+Discover the inner workings of this project by following our step-by-step [tutorial](https://hamudeshahin.me/blogs/send-emails-using-react-email-resend-and-server-actions-in-nextjs)
 
 ---
 
