@@ -1,7 +1,7 @@
 ![How To Send Emails Using React Emails, Resend, and Next.js Server Actions](https://res.cloudinary.com/drce7uees/image/upload/v1695041310/i0b40xyr7g2wvgwbsuty.webp)
 
 ---
-## How this project was codded ?
+## How this project was coded ?
 Discover the inner workings of this project by following our step-by-step following [tutorial](https://hamudeshahin.me/blogs/send-emails-using-react-email-resend-and-server-actions-in-nextjs)
 
 ---
